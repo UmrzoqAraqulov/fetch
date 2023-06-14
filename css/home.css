@@ -1,0 +1,17 @@
+a {
+  text-decoration: none !important;
+  padding-left: 5px;
+}
+
+body {
+  width: 100%;
+  background: linear-gradient(120deg, #0BFABD, #780AFA);
+}
+
+.title {
+  text-align: center;
+  padding: 20px;
+  font-weight: 700;
+  font-size: 70px;
+  color: white !important;
+}
